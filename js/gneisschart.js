@@ -98,7 +98,7 @@ Gneiss.defaultGneissChartConfig = {
 		}
 	],
 	sourceline: "",
-	creditline: "Made with Chartbuilder"
+	creditline: "theconversation.com"
 };
 
 Gneiss.dateParsers = {
